@@ -1,4 +1,5 @@
-### 😎 
+### 😎 Yo, I'm Ashton
+Im a highschool student who enjoys studying computer science and stuff. 
 
 <!--
 **Ashton-Stockenberg/Ashton-Stockenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
