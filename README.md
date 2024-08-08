@@ -1,5 +1,5 @@
 ### 😎 Yo, I'm Ashton
-Im a highschool student who enjoys studying computer science and stuff. 
+Im a Umass Lowell student who enjoys computer science and other stuff
 
 <!--
 **Ashton-Stockenberg/Ashton-Stockenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
